@@ -1,4 +1,4 @@
--!Carnival of Hamlet!-
+-| Carnival of Hamlet |-
 
 
 "Carnival of Hamlet" is an exciting computer graphics project 
